@@ -8,6 +8,7 @@ As we progress through Seido we need to learn:
 * meanings of kata etc
 
 I am going to make a quiz in JavaScript that will:
+
 1. Item 1
 2. Item 2
 3. Item 3
