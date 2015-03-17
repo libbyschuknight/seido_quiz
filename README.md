@@ -8,8 +8,8 @@ As we progress through Seido we need to learn:
 * meanings of kata etc
 
 I am going to make a quiz in JavaScript that will:
-1. ask questions and check answers and output how many questions the user for correct or wrong (based on the Quiz Challenge in the Treehouse JS Loops, Arrays & Objects course)
-2. Further development down the track we be:
+1.  ask questions and check answers and output how many questions the user for correct or wrong (based on the Quiz Challenge in the Treehouse JS Loops, Arrays & Objects course)
+2.  Further development down the track we be:
 * asking for users name and keeping a Top Score list of users that will be displayed - maybe on another page
 * telling the user if they have acheived the high score
 * any other cool things for a quiz
